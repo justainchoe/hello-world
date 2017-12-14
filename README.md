@@ -1,5 +1,7 @@
 # hello-world
 Tutorial
-Hello Git-world!
-I am learning how to code by using this tutorial.
-This is the first step of many in my journey to learn how to code.
+readme-edits
+Hello again!
+It seems I already made my first error.
+Don't feel too thrilled but hopefully this second effort is better.
+master
